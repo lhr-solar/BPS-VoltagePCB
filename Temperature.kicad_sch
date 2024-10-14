@@ -5812,6 +5812,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "KAM21BR71H473KT"
+			(at 195.58 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1fe3e62f-5820-44e6-8add-fd2e52a0555a")
 		)
@@ -9265,6 +9274,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 213.36 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "KAM21BR71H473KT"
 			(at 213.36 104.775 0)
 			(effects
 				(font

@@ -7891,6 +7891,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "C0805C101FCGACTU"
+			(at 112.395 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1ded9ca9-caed-43bb-b039-5fcb9b02d2c7")
 		)
@@ -9326,6 +9335,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 351.79 31.115 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C474K3RAC"
 			(at 351.79 31.115 0)
 			(effects
 				(font
@@ -11697,6 +11715,15 @@
 				(hide yes)
 			)
 		)
+		(property "P/N" "C0805C101FCGACTU"
+			(at 365.76 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e3b7c16e-8b3e-404d-aef6-66921b2d2936")
 		)
@@ -11758,6 +11785,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 98.425 36.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "P/N" "C0805C474K3RAC"
 			(at 98.425 36.195 0)
 			(effects
 				(font
