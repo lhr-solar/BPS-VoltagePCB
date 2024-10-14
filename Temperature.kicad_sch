@@ -6132,7 +6132,7 @@
 				(hide yes)
 			)
 		)
-		(property "P/N" "LM321"
+		(property "P/N" "LM321MF/NOPB "
 			(at 232.41 103.505 0)
 			(effects
 				(font
